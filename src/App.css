@@ -1,0 +1,19 @@
+.list{
+  text-align: center;
+}
+
+.list li{
+  border:1px solid black;
+list-style:none;
+}
+
+html{
+  background-color: blue;
+}
+
+.routes nav ul li {
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  width: 100px;
+}
